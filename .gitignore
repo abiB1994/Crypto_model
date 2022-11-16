@@ -131,3 +131,4 @@ dmypy.json
 *.csv
 
 >>>>>>> 8881b706c509d505012060d878458e2a7a26c535
+add_project/*
